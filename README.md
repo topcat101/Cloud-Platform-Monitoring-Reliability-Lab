@@ -2,23 +2,18 @@
 
 ## High-Level Architecture
 User Traffic
-      
       ↓
       
 Load Balancer
-      
       ↓
       
 Auto Scaling EC2 Instances
-      
       ↓
       
 Application
-      
       ↓
       
 CloudWatch Metrics
-      
       ↓
       
 Grafana Dashboards
