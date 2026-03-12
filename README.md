@@ -1,22 +1,7 @@
 # Cloud-Platform-Monitoring-Reliability-Lab
 
 ## High-Level Architecture
-User Traffic
-      ↓
-      
-Load Balancer
-      ↓
-      
-Auto Scaling EC2 Instances
-      ↓
-      
-Application
-      ↓
-      
-CloudWatch Metrics
-      ↓
-      
-Grafana Dashboards
+User Traffic -> Load Balancer -> Auto Scaling EC2 Instances -> Application -> CloudWatch Metrics -> Grafana Dashboards
 
 ### Key Components:
 - AWS EC2
