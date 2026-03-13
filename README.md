@@ -1,4 +1,4 @@
-# Cloud-Platform-Monitoring-Reliability-Lab
+# Cloud Platform Monitoring Reliability Project
 
 ## High-Level Architecture
 User Traffic -> Load Balancer -> Auto Scaling EC2 Instances -> Application -> CloudWatch Metrics -> Grafana Dashboards
